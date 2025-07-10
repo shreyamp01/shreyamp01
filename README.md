@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Header](./github-header-image.png)
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Science Engineering <br>👯 I’m looking to collaborate on Machine Learning,Flutter <br>🌱 I’m currently learning App Dev<br>💬 Ask me about DSA, Web,Machine Learning<br>⚡ Fun fact : A giraffe’s neck has the same number of bones as a human neck — just 7!
 
