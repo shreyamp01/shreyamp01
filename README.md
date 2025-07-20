@@ -2,6 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Science Engineering <br>👯 I’m looking to collaborate on Machine Learning,Flutter <br>🌱 I’m currently learning App Dev<br>💬 Ask me about DSA, Web,Machine Learning<br> 
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={Shreya_MP}" alt="LeetCode Badges" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-mp-9002a526a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyamp00@gmail.com) 
