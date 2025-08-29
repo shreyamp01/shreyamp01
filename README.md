@@ -4,6 +4,8 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shreya_MP&animated=true&theme=github-dark)
 
+![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shreya_MP&theme=github-dark&border=border&animated=true)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-mp-9002a526a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyamp00@gmail.com) 
